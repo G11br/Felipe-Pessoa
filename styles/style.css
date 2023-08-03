@@ -182,4 +182,10 @@ body{
         padding: 10% 8%;
         gap: 40px;
     }
+    .conteudo-portfolio-linha div{
+        width: 45%;
+        height: 100%;
+        background-color: aliceblue;
+        border-radius: 20px;
+    }
 }
