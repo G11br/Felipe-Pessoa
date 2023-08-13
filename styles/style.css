@@ -141,24 +141,12 @@ body{
 }
 @media(max-width: 890px){
     .cabecalho-navegacao{
-        font-size: 1.5rem;
-        font-family: 'Montserrat', sans-serif;
-        font-weight: 600;
-        display: flex;
         justify-content: center;
-        align-items: center;
-        gap: 20px;
     }
     .conteudo{
-        padding: 8% 10%;
-        display: flex;
         flex-direction: column-reverse;
-        justify-content: center;
-        align-items: center;
-        gap: 40px;
     }
     .conteudo-foto{
-        border-radius: 25px;
         width: 80%;
         height: 80%;
     }
